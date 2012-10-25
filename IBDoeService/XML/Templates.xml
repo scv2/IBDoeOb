@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<OrderManagerTemplate>
+  <OrderManagerTemplateHeader>
+    <ID>4298</ID>
+    <Description>JCI  August 20,2012  (created by Auri)</Description>
+    <Comments />
+    <LineItemsCount>186</LineItemsCount>
+    <CreatedUserFullName>Auri Batista</CreatedUserFullName>
+    <CreatedBy>AU412771</CreatedBy>
+    <ModifiedBy>AU412771</ModifiedBy>
+    <CreatedDate>2012-08-14T10:21:35</CreatedDate>
+    <ModifiedDate>2012-08-14T12:27:49</ModifiedDate>
+  </OrderManagerTemplateHeader>
+  <OrderManagerTemplateHeader>
+    <ID>2334</ID>
+    <Description>JCI - Ameritron (As of 1-Nov-11)</Description>
+    <Comments>Auto Generated Template</Comments>
+    <LineItemsCount>153</LineItemsCount>
+    <CreatedUserFullName>Brian Borichevsky</CreatedUserFullName>
+    <CreatedBy>SYSTEM</CreatedBy>
+    <ModifiedBy>SYSTEM</ModifiedBy>
+    <CreatedDate>2012-02-16T12:06:35</CreatedDate>
+    <ModifiedDate>2012-02-16T12:06:35</ModifiedDate>
+  </OrderManagerTemplateHeader>
+  <OrderManagerTemplateHeader>
+    <ID>2333</ID>
+    <Description>JCI - Interstate (As of 1-Nov-11)</Description>
+    <Comments>Auto Generated Template</Comments>
+    <LineItemsCount>147</LineItemsCount>
+    <CreatedUserFullName>Brian Borichevsky</CreatedUserFullName>
+    <CreatedBy>SYSTEM</CreatedBy>
+    <ModifiedBy>SYSTEM</ModifiedBy>
+    <CreatedDate>2012-02-16T12:06:35</CreatedDate>
+    <ModifiedDate>2012-02-16T12:06:35</ModifiedDate>
+  </OrderManagerTemplateHeader>
+  <OrderManagerTemplateHeader>
+    <ID>2332</ID>
+    <Description>RAD - ALL (As of 1-Nov-11)</Description>
+    <Comments>Auto Generated Template</Comments>
+    <LineItemsCount>194</LineItemsCount>
+    <CreatedUserFullName>Brian Borichevsky</CreatedUserFullName>
+    <CreatedBy>SYSTEM</CreatedBy>
+    <ModifiedBy>SYSTEM</ModifiedBy>
+    <CreatedDate>2012-02-16T12:06:35</CreatedDate>
+    <ModifiedDate>2012-02-16T12:06:35</ModifiedDate>
+  </OrderManagerTemplateHeader>
+  <OrderManagerTemplateHeader>
+    <ID>2331</ID>
+    <Description>Yuasa - ALL (As of 1-Nov-11)</Description>
+    <Comments>Auto Generated Template</Comments>
+    <LineItemsCount>198</LineItemsCount>
+    <CreatedUserFullName>Brian Borichevsky</CreatedUserFullName>
+    <CreatedBy>SYSTEM</CreatedBy>
+    <ModifiedBy>SYSTEM</ModifiedBy>
+    <CreatedDate>2012-02-16T12:06:35</CreatedDate>
+    <ModifiedDate>2012-02-16T12:06:35</ModifiedDate>
+  </OrderManagerTemplateHeader>
+  <OrderManagerTemplateHeader>
+    <ID>2330</ID>
+    <Description>JCI - ALL (As of 1-Nov-11)</Description>
+    <Comments>Auto Generated Template</Comments>
+    <LineItemsCount>449</LineItemsCount>
+    <CreatedUserFullName>Brian Borichevsky</CreatedUserFullName>
+    <CreatedBy>SYSTEM</CreatedBy>
+    <ModifiedBy>SYSTEM</ModifiedBy>
+    <CreatedDate>2012-02-16T12:06:35</CreatedDate>
+    <ModifiedDate>2012-02-16T12:06:35</ModifiedDate>
+  </OrderManagerTemplateHeader>
+</OrderManagerTemplate>

@@ -1,0 +1,5 @@
+C:\Users\Chintan.Vyas\Desktop\Chintan\Project\WCF\IBDoeService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chintan.Vyas\Desktop\Chintan\Project\WCF\IBDoeService\bin\IBDoeService.dll
+C:\Users\Chintan.Vyas\Desktop\Chintan\Project\WCF\IBDoeService\bin\IBDoeService.pdb
+C:\Users\Chintan.Vyas\Desktop\Chintan\Project\WCF\IBDoeService\obj\Debug\IBDoeService.dll
+C:\Users\Chintan.Vyas\Desktop\Chintan\Project\WCF\IBDoeService\obj\Debug\IBDoeService.pdb
